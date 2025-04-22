@@ -1,0 +1,41 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I./include",
+      "-o",
+      "imgui_osc",
+      "src/main.cpp"
+    ],
+    "directory": "/home/alex/espresso_scale/imgui_osc",
+    "file": "/home/alex/espresso_scale/imgui_osc/src/main.cpp",
+    "output": "/home/alex/espresso_scale/imgui_osc/imgui_osc"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I./include",
+      "-o",
+      "imgui_osc",
+      "src/imgui_impl_sdl3.cpp"
+    ],
+    "directory": "/home/alex/espresso_scale/imgui_osc",
+    "file": "/home/alex/espresso_scale/imgui_osc/src/imgui_impl_sdl3.cpp",
+    "output": "/home/alex/espresso_scale/imgui_osc/imgui_osc"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I./include",
+      "-o",
+      "imgui_osc",
+      "src/imgui_impl_sdlrenderer3.cpp"
+    ],
+    "directory": "/home/alex/espresso_scale/imgui_osc",
+    "file": "/home/alex/espresso_scale/imgui_osc/src/imgui_impl_sdlrenderer3.cpp",
+    "output": "/home/alex/espresso_scale/imgui_osc/imgui_osc"
+  }
+]

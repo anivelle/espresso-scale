@@ -14,5 +14,6 @@ target_link_libraries(espresso_scale
                     hardware_adc
                   )
 
+# pico_set_printf_implementation(espresso_scale compiler)
 pico_enable_stdio_usb(espresso_scale 1)
 pico_enable_stdio_uart(espresso_scale 0)

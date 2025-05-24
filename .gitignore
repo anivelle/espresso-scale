@@ -1,4 +1,3 @@
 **/build
-imgui_osc
+**/imgui_osc_bin
 **/.cache
-*.ini

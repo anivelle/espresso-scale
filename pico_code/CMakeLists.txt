@@ -13,6 +13,7 @@ target_link_libraries(espresso_scale
                     pico_stdlib 
                     hardware_adc
                     hardware_pwm
+                    hardware_i2c
                   )
 
 # pico_set_printf_implementation(espresso_scale compiler)
